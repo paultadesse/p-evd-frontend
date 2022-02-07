@@ -2,7 +2,7 @@
 	<div class="bg-gray-800 w-64 h-screen flex flex-col justify-between px-7 overflow-y-scrol overflow-x-hidden">
 		<div>
 			<div class="pt-10 mx-auto text-white text-3xl font-extrabold uppercase text-center">
-				Safaricom <span class="text-lg">Ethiopia</span></div>
+				<span class="tracking-wider">Safaricom</span> <span class="text-lg">Ethiopia</span></div>
 			<div class="pt-10 text-sm font-bold text-gray-400">NAVIGATION</div>
 			<div class="pt-5 ">
 				<div class="flex space-x-4 text-white ">

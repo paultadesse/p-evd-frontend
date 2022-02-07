@@ -145,7 +145,7 @@
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                 </svg>
                 <span>
-                  You Export Vouchers 
+                  You Export 100 Birr vouchers
                 </span>
               </span>
               <div class="text-gray-400 flex items-center space-x-2">
@@ -164,7 +164,7 @@
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                 </svg>
                 <span>
-                  You Export Vouchers 
+                  You Export 50 Birr Vouchers 
                 </span>
               </span>
               <div class="text-gray-400 flex items-center space-x-2">
@@ -183,7 +183,7 @@
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                 </svg>
                 <span>
-                  You Export Vouchers 
+                  You Export 25 Birr Vouchers 
                 </span>
               </span>
               <div class="text-gray-400 flex items-center space-x-2">
@@ -202,7 +202,7 @@
                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                 </svg>
                 <span>
-                  You Export Vouchers 
+                  You Export 15 Birr Vouchers 
                 </span>
               </span>
               <div class="text-gray-400 flex items-center space-x-2">
@@ -221,7 +221,7 @@
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
               </svg>
                 <span>
-                  You Export Vouchers 
+                  You Export 10 Birr Vouchers 
                 </span>
               </span>
               <div class="text-gray-400 flex items-center space-x-2">
@@ -250,14 +250,14 @@
           </div>
         </div>
         
-        <div class="flex justify-around text-center bg-gray-100 max-w-7xl mx-auto py-7">
+        <div class="flex justify-around text-center bg-gray-50 max-w-7xl mx-auto py-7">
           <div class="space-y-2">
-            <div>Current Week</div>
-            <div>12,000</div>
+            <div class="text-gray-500 tracking-wider">Current Week</div>
+            <div class="text-3xl font-light">$12,000</div>
           </div>
           <div class="space-y-2">
-            <div>Previous Week</div>
-            <div>12,000</div>
+            <div class="text-gray-500 tracking-wider">Previous Week</div>
+            <div class="text-3xl font-light">$67,450</div>
           </div>
         </div>
       </div>

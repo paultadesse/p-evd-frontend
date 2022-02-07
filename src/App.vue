@@ -1,6 +1,6 @@
 <template>
   <div id="">
-    <div class="flex bg-gray-100">
+    <div class="flex bg-gray-100 font-poppins">
       <div>
         <SideBar/>
       </div>

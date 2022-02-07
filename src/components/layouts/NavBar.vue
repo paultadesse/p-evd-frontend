@@ -2,11 +2,11 @@
 	<div class="flex justify-between px-10 py-7 bg-white">
 		<div class="flex items-center">
 			
-		<div class="flex border items-center justify-center">
+		<div class="flex border rounded  items-center justify-center">
 			<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
   				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
 			</svg>
-			<input class="focus:outline-none tracking-wider py-1 px-4" type="text" placeholder="search..." name=""> 
+			<input class="focus:outline-none bg-gray-50 tracking-wider py-1 px-4" type="text" placeholder="search..." name=""> 
 		</div>
 		<div class="px-1">
 			<button class="block bg-gray-800 px-4 py-1.5 text-white rounded text-sm">
