@@ -22,7 +22,6 @@
 				</div>
 				<div class="ml-9 pt-4 space-y-4 text-sm">
 					<div class="text-gray-400">Analytics</div>
-					<div class="text-gray-400">CRM</div>
 					<div class="text-white">Status</div>
 					<div class="text-gray-400">Sales</div>
 				</div>
@@ -76,10 +75,8 @@
 					</div>
 				</div>
 				<div class="ml-9 pt-4 space-y-4 text-sm">
-					<div class="text-gray-400">Analytics</div>
+					<div class="text-gray-400">Lists</div>
 					<div class="text-gray-400">CRM</div>
-					<div class="text-gray-400">Vouchers</div>
-					<div class="text-gray-400">Sales</div>
 				</div>
 			</div>
 			<div class="text-sm font-bold text-gray-400 pt-7 uppercase">custom</div>
@@ -91,7 +88,7 @@
 					</svg>
 					<div class="flex justify-between w-full">
 						<span class="text-sm">
-							Dashboard
+							Users
 						</span>
 						<span>
 							<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -101,8 +98,12 @@
 					</div>
 				</div>
 				<div class="ml-9 pt-4 space-y-4 text-sm">
-					<div class="text-gray-400">CRM</div>
-					<div class="text-gray-400">Vouchers</div>
+					<div class="text-gray-400">Admin</div>
+					<div class="text-gray-400">Sales Manager</div>
+					<div class="text-gray-400">Sales</div>
+					<div class="text-gray-400">Distributors</div>
+					<div class="text-gray-400">Sub-Distributors</div>
+					<div class="text-gray-400">Retailers</div>
 				</div>
 			</div>
 		
